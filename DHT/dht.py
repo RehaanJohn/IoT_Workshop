@@ -25,3 +25,5 @@ while True:
 
     # Wait 2 seconds
     time.sleep(2)
+
+# For RPI Pico
